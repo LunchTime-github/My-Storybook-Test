@@ -7,7 +7,7 @@ export const PureInboxScreen = ({ error }) => {
 
   return (
     <div>
-      <h1>Task Box</h1>
+      <h1>Task Boxs</h1>
       <TaskList />
     </div>
   );
