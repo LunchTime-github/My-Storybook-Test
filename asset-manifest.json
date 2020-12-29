@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-Storybook-Test/static/css/main.ccfffd66.chunk.css",
+    "main.js": "/My-Storybook-Test/static/js/main.5178adde.chunk.js",
+    "main.js.map": "/My-Storybook-Test/static/js/main.5178adde.chunk.js.map",
+    "runtime-main.js": "/My-Storybook-Test/static/js/runtime-main.6acd2d83.js",
+    "runtime-main.js.map": "/My-Storybook-Test/static/js/runtime-main.6acd2d83.js.map",
+    "static/js/2.946ad0a9.chunk.js": "/My-Storybook-Test/static/js/2.946ad0a9.chunk.js",
+    "static/js/2.946ad0a9.chunk.js.map": "/My-Storybook-Test/static/js/2.946ad0a9.chunk.js.map",
+    "index.html": "/My-Storybook-Test/index.html",
+    "static/css/main.ccfffd66.chunk.css.map": "/My-Storybook-Test/static/css/main.ccfffd66.chunk.css.map",
+    "static/js/2.946ad0a9.chunk.js.LICENSE.txt": "/My-Storybook-Test/static/js/2.946ad0a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6acd2d83.js",
+    "static/js/2.946ad0a9.chunk.js",
+    "static/css/main.ccfffd66.chunk.css",
+    "static/js/main.5178adde.chunk.js"
+  ]
+}
